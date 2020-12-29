@@ -1,5 +1,6 @@
 ### GPStoKML
 Converts a file containing GPS coordinates to KML file to be viewed using Google Earth
+
 ``python3 GPStoKML.py <input>.txt <output>.kml``
 
 ### GPStoCostMap
